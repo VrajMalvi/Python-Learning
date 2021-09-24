@@ -1,0 +1,11 @@
+before starting wwoth we have to set up virtual environment 
+
+1) py -3 -m venv 19_Web-Developement
+2) go to path using cd then : py -3 -m venv venv
+
+also, we have to activate virtual path(for windows): <foldername>\Scripts\activate.bat
+
+here is link for virtual environment : https://docs.python.org/3/library/venv.html#creating-virtual-environments
+
+
+and here is link for flask : https://flask.palletsprojects.com/en/1.1.x/quickstart/
